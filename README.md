@@ -78,9 +78,10 @@ Email: nancy.pietropaolo@gmail.com
 - Active Secret clearance
 
 # Additional Languages
-### Spanish
+
+**Spanish**
 
 |  |  |
-|:-------------------------|:--------------------------------|
-| **Speaking Proficiency** | **Reading/Writing Proficiency** |
-| Limited Working          | Professional Working            |
+|:----------------------------------|:----------------------------------|
+| ***Speaking Proficiency***        | Limited Working                   |
+| ***Reading/Writing Proficiency*** | Professional Working              |
