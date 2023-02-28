@@ -1,7 +1,9 @@
 ---
 ---
+
 @import "{{site.theme}}";
 
 .markdown-body h3 {
   margin-bottom: 10px;
+  color: red;
 }
