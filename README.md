@@ -74,12 +74,11 @@ Email: nancy.pietropaolo@gmail.com
 - Six Sigma (Green Belt equivalent)
 
 ---
-# Additioanl Information
+# Additional Information
 - Active Secret clearance
 
 # Additional Languages
 ### Spanish
-
 |  |  |
 |:-------------------------|:--------------------------------|
 | **Speaking Proficiency** | **Reading/Writing Proficiency** |
