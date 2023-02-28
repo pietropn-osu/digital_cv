@@ -75,7 +75,15 @@
 
 # Additional Languages
 ### Spanish
+
 | Speaking Proficiency | Reading/Writing Proficiency |
-| :------------------- | :-------------------------- |
+|:---------------------|:----------------------------|
 | Limited Working      | Professional Working        |
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
