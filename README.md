@@ -79,9 +79,7 @@ Email: nancy.pietropaolo@gmail.com
 
 # Additional Languages
 
-**Spanish**
-
-|  |  |
+| **Spanish** |  |
 |:----------------------------------|:----------------------------------|
 | ***Speaking Proficiency***        | Limited Working                   |
 | ***Reading/Writing Proficiency*** | Professional Working              |
