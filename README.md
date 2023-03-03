@@ -1,17 +1,28 @@
-# Contact Information
-Email: nancy.pietropaolo@gmail.com
+# Nancy Pietropaolo
+*nancy.pietropaolo@gmail.com*
 
 ---
 # Languages
+Python, C, C#, C++, MASM, OpenGl, MySQL, HTML/CSS/JavaScript, Visual Basic
+
 ---
 # Applications
+### Software
+VS Code, PyCharm, Microsoft Visual Studio, ClearCase, Git/GitHub/GitHub Desktop, GitLab, BitBucket
+
+### Hardware
+AutoCAD Electrical, Logic Works, OrCAD, PSpice, Quartus II, and Cadence
+
+### Other
+IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
+
 ---
 # Professional Experience
 
-## Senior Software Engineer I, *Raytheon*
+## Senior Software Engineer, *Raytheon*
 ##### February 2019 - Present
 ##### General			
--	Responsibilities of Software Engineer II (see below)
+-	Responsibilities of Software Engineer II *(see below)*
 -	Support future Six Sigma projects as a stakeholder
 -	Perform and verify software installations for customers on-site
 -	Provide customer with training and documentation on product changes
