@@ -8,7 +8,7 @@ Python, C, C#, C++, MASM, OpenGl, MySQL, HTML/CSS/JavaScript, Visual Basic
 ---
 # Applications
 ### Software
-VS Code, PyCharm, Microsoft Visual Studio, ClearCase, Git/GitHub/GitHub Desktop, GitLab, BitBucket
+VS Code, PyCharm, Microsoft Visual Studio, Postman, ClearCase, Git/GitHub/GitHub Desktop, GitLab, BitBucket
 
 ### Hardware
 AutoCAD Electrical, Logic Works, OrCAD, PSpice, Quartus II, and Cadence
@@ -79,6 +79,20 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
 
 ---
 # Education
+| **OREGON STATE UNIVERSITY, POST–BACCALAUREATE** | **GPA:** 3.84 |
+|:----------------------------------|:----------------------------------|
+| **Completion Date:** | December 2022                                       |
+| **Major:**           | Computer Science                                    |
+| **Capstone:**        | *Levrum Data Technologies* – Prototyped porting a 
+                         desktop application from .NET Framework to a web 
+                         application utilizing ASP.NET (C#) to build a 
+                         RESTful API.                                        |
+
+| **RENSSELAER POLYTECHNIC INSTITUTE, B.S.** |  |
+|:----------------------------------|:---------------------------------------|
+| **Completion Date:** | December 2011                                       |
+| **Major:**           | Electrical Engineering (Concentration: Electronics) |
+| **Minor:**           | Social Psychology                                   |
 
 ---
 # Certifications
