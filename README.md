@@ -79,6 +79,7 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
 
 ---
 # Education
+
 | **OREGON STATE UNIVERSITY, POST–BACCALAUREATE** | **GPA:** 3.84 |
 |:----------------------------------|:----------------------------------|
 | **Completion Date:** | December 2022                                       |
@@ -89,10 +90,10 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
                          RESTful API.                                        |
 
 | **RENSSELAER POLYTECHNIC INSTITUTE, B.S.** |  |
-|:----------------------------------|:---------------------------------------|
-| **Completion Date:** | December 2011                                       |
-| **Major:**           | Electrical Engineering (Concentration: Electronics) |
-| **Minor:**           | Social Psychology                                   |
+|-------------------------------------------:|:------------------------------|
+| **Completion Date**  | December 2011                                       |
+| **Major**            | Electrical Engineering (Concentration: Electronics) |
+| **Minor**            | Social Psychology                                   |
 
 ---
 # Certifications
