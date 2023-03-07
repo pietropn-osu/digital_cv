@@ -84,10 +84,9 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
 |:----------------------------------|:----------------------------------|
 | **Completion Date:** | December 2022                                       |
 | **Major:**           | Computer Science                                    |
-| **Capstone:**        | *Levrum Data Technologies* – Prototyped porting a 
-                         desktop application from .NET Framework to a web 
-                         application utilizing ASP.NET (C#) to build a 
-                         RESTful API.                                        |
+
+**Capstone:** *Levrum Data Technologies* – Prototyped porting a desktop application from 
+.NET Framework to a web application utilizing ASP.NET (C#) to build a RESTful API. 
 
 | **RENSSELAER POLYTECHNIC INSTITUTE, B.S.** |                               |
 |-------------------------------------------:|:------------------------------|
