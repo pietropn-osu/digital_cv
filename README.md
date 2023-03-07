@@ -89,8 +89,9 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
                          application utilizing ASP.NET (C#) to build a 
                          RESTful API.                                        |
 
-| **RENSSELAER POLYTECHNIC INSTITUTE, B.S.**                                 |
+| **RENSSELAER POLYTECHNIC INSTITUTE, B.S.** |                               |
 |-------------------------------------------:|:------------------------------|
+|                                            |                               |
 | **Completion Date**  | December 2011                                       |
 | **Major**            | Electrical Engineering (Concentration: Electronics) |
 | **Minor**            | Social Psychology                                   |
