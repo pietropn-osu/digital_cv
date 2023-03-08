@@ -90,7 +90,6 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
 
 | **RENSSELAER POLYTECHNIC INSTITUTE, B.S.** |                               |
 |-------------------------------------------:|:------------------------------|
-|                                            |                               |
 | **Completion Date**  | December 2011                                       |
 | **Major**            | Electrical Engineering (Concentration: Electronics) |
 | **Minor**            | Social Psychology                                   |
