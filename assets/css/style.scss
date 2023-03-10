@@ -2,8 +2,9 @@
 ---
 h1.title {
   font-family: Helvetica;
+  color: red;
 }
-th {
+.markdown-body table {
   column-width: auto;
 }
 @import "{{site.theme}}";
