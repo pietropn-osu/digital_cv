@@ -107,6 +107,7 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
 # Additional Information
 - Active Secret clearance
 
+---
 # Additional Languages
 
 ##### SPANISH
