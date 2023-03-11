@@ -1,5 +1,5 @@
 # Nancy Pietropaolo
-*nancy.pietropaolo@gmail.com*
+<p id="email">nancy.pietropaolo@gmail.com</p>
 
 ---
 # Languages
