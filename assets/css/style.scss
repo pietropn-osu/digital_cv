@@ -23,7 +23,8 @@ h1.title {
 .markdown-body table {
   margin-top: 0;
 }
-.markdown-body thead {
+.markdown-body thead, 
+.markdown-body th {
   font-size: 0;
 }
 .markdown-body ul {
