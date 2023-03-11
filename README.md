@@ -81,7 +81,7 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
 # Education
 
 ##### OREGON STATE UNIVERSITY, POST–BACCALAUREATE
-| a__________________ |                     |
+| a                   |                     |
 |--------------------:|:--------------------|
 | **Completion Date** | December 2022       |
 | **Major**           | Computer Science    |
