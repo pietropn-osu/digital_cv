@@ -3,18 +3,18 @@
 
 ---
 # Languages
-<p class="plaintext">Python, C, C#, C++, MASM, OpenGl, MySQL, HTML/CSS/JavaScript, Visual Basic<p>
+<p class="plain_text">Python, C, C#, C++, MASM, OpenGl, MySQL, HTML/CSS/JavaScript, Visual Basic<p>
 
 ---
 # Applications
 #### Software
-<p class="plaintext">VS Code, PyCharm, Microsoft Visual Studio, Postman, ClearCase, Git/GitHub/GitHub Desktop, GitLab, BitBucket</p>
+<p class="plain_text">VS Code, PyCharm, Microsoft Visual Studio, Postman, ClearCase, Git/GitHub/GitHub Desktop, GitLab, BitBucket</p>
 
 #### Hardware
-<p class="plaintext">AutoCAD Electrical, Logic Works, OrCAD, PSpice, Quartus II, and Cadence</p>
+<p class="plain_text">AutoCAD Electrical, Logic Works, OrCAD, PSpice, Quartus II, and Cadence</p>
 
 #### Other
-<p class="plaintext">IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana</p>
+<p class="plain_text">IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana</p>
 
 ---
 # Professional Experience
