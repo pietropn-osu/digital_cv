@@ -3,18 +3,18 @@
 
 ---
 # Languages
-<p class="plain_text">Python, C, C#, C++, MASM, OpenGl, MySQL, HTML/CSS/JavaScript, Visual Basic</p>
+<p class="plaintext">Python, C, C#, C++, MASM, OpenGl, MySQL, HTML/CSS/JavaScript, Visual Basic</p>
 
 ---
 # Applications
 #### Software
-<p class="plain_text">VS Code, PyCharm, Microsoft Visual Studio, Postman, ClearCase, Git/GitHub/GitHub Desktop, GitLab, BitBucket</p>
+<p class="plaintext">VS Code, PyCharm, Microsoft Visual Studio, Postman, ClearCase, Git/GitHub/GitHub Desktop, GitLab, BitBucket</p>
 
 #### Hardware
-<p class="plain_text">AutoCAD Electrical, Logic Works, OrCAD, PSpice, Quartus II, and Cadence</p>
+<p class="plaintext">AutoCAD Electrical, Logic Works, OrCAD, PSpice, Quartus II, and Cadence</p>
 
 #### Other
-<p class="plain_text">IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana</p>
+<p class="plaintext">IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana</p>
 
 ---
 # Professional Experience
@@ -81,6 +81,7 @@
 # Education
 
 ##### OREGON STATE UNIVERSITY, POST–BACCALAUREATE
+<p class="capstone"><em>Capstone - Levrum Data Technologies – </em>Prototyped porting a desktop application from .NET Framework to a web application utilizing ASP.NET (C#) to build a RESTful API.</p>
 
 |                     |                     |
 |--------------------:|:--------------------|
@@ -88,8 +89,6 @@
 | **Major**           | Computer Science    |
 | **GPA**             | 3.84                |
 
-*Capstone - Levrum Data Technologies* – Prototyped porting a desktop application from 
-.NET Framework to a web application utilizing ASP.NET (C#) to build a RESTful API. 
 
 ##### RENSSELAER POLYTECHNIC INSTITUTE, B.S.
 
