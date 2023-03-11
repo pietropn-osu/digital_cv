@@ -81,9 +81,9 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
 # Education
 
 | **OREGON STATE UNIVERSITY, POST–BACCALAUREATE** | **GPA:** 3.84 |
-|:----------------------------------|:----------------------------------|
-| **Completion Date:** | December 2022                                       |
-| **Major:**           | Computer Science                                    |
+|----------------------------------:|:----------------------------------|
+| **Completion Date:** | December 2022                                  |
+| **Major:**           | Computer Science                               |
 
 **Capstone:** *Levrum Data Technologies* – Prototyped porting a desktop application from 
 .NET Framework to a web application utilizing ASP.NET (C#) to build a RESTful API. 
