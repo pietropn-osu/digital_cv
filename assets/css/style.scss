@@ -5,6 +5,7 @@ h1.title {
   font-style: normal !important;
 }
 .markdown-body h2 {
+  margin-top: 25px;
   margin-bottom: 5px !important;
 }
 .markdown-body h4 {
@@ -12,8 +13,15 @@ h1.title {
   margin-bottom: 10px !important;
 }
 .markdown-body h5 {
+  margin-bottom: 0 !important;
+  font-size: 18px !important;
+}
+.markdown-body h6 {
   margin-top: 5px !important;
   font-size: 14px !important;
+}
+.markdown-body table {
+  margin-top: 0;
 }
 .markdown-body th {
   text-align: left !important;

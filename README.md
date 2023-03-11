@@ -20,7 +20,7 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
 # Professional Experience
 
 ## Senior Software Engineer, *Raytheon*
-##### February 2019 - Present
+###### February 2019 - Present
 #### General			
 -	Responsibilities of Software Engineer II *(see below)*
 -	Support future Six Sigma projects as a stakeholder
@@ -40,7 +40,7 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
 -	Performed requirements maintenance as well as functional and regression testing
 
 ## Software Engineer II, *Raytheon*
-##### September 2016 - February 2019
+###### September 2016 - February 2019
 #### General
 -	Designed and implemented test procedures/scripts for status monitor and communication functionalities of the Patriot system
 -	Automated manual/quasi-automated tests to reduce run/execution times and operator errors
@@ -53,7 +53,7 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
 
 
 ## SQA Engineer, *Samsung Neurologica*
-##### July 2015 - August 2016
+###### July 2015 - August 2016
 - Performed FDA verification/validation and environmental testing on mobile CT scanners
 - Performed additional test methodologies on system level components including HALT, HASS, regression, and regulatory compliance
 - Generated and executed test cases/plans/reports for system level components
@@ -62,7 +62,7 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
 - Coordinated with internal/external development partners to ensure products met expectations
 
 ## Controls Engineer, *SP Scientific*
-##### April 2014 - April 2015
+###### April 2014 - April 2015
 - Developed and maintained HMIs in Visual Basic (Proficy HMI/SCADA, iFIX)
 - Implemented PLC (Allen-Bradley) programs to facilitate freeze-drying processes
 - Maintained electrical schematics
@@ -70,7 +70,7 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
 - Managed instructional documentation for HMI/PLC configurations
 
 ## Systems Engineer, *DRS Technologies*
-##### April 2012 - April 2014
+###### April 2012 - April 2014
 -	Lead Test Engineer for flight recorder systems
 -	Managed procurement specification requirements 
 -	Designed technical procedures for acceptance and qualification testing
@@ -80,7 +80,8 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
 ---
 # Education
 
-| **OREGON STATE UNIVERSITY, POST–BACCALAUREATE** | |
+##### OREGON STATE UNIVERSITY, POST–BACCALAUREATE
+|  | |
 |----------------------------------:|:--------------|
 | **Completion Date** | December 2022               |
 | **Major**           | Computer Science            |
