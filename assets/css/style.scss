@@ -4,8 +4,7 @@ h1.title {
   font-size: 45px !important;
   font-style: normal !important;
 }
-.markdown-body thead {
-  column-width: auto !important;
+.markdown-body th {
   width: 100% !important;
 }
 @import "{{site.theme}}";
