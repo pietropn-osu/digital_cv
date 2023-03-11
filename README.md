@@ -81,7 +81,7 @@
 # Education
 
 ##### OREGON STATE UNIVERSITY, POST–BACCALAUREATE
-<p class="capstone"><em>Capstone - Levrum Data Technologies – </em>Prototyped porting a desktop application from .NET Framework to a web application utilizing ASP.NET (C#) to build a RESTful API.</p>
+<p class="capstone"><strong><em>Capstone - Levrum Data Technologies – </em></strong>Prototyped porting a desktop application from .NET Framework to a web application utilizing ASP.NET (C#) to build a RESTful API.</p>
 
 |                     |                     |
 |--------------------:|:--------------------|
