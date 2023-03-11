@@ -3,7 +3,7 @@
 
 ---
 # Languages
-<p class="plain_text">Python, C, C#, C++, MASM, OpenGl, MySQL, HTML/CSS/JavaScript, Visual Basic<p>
+<p class="plain_text">Python, C, C#, C++, MASM, OpenGl, MySQL, HTML/CSS/JavaScript, Visual Basic</p>
 
 ---
 # Applications
