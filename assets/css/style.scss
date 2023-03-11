@@ -4,8 +4,13 @@ h1.title {
   font-size: 45px !important;
   font-style: normal !important;
 }
+.markdown-body h3 {
+  margin-bottom: 5px !important;
+}
+.markdown-body h5 {
+  margin-top: 5px !important;
+}
 .markdown-body th {
-  width: 100% !important;
   text-align: left !important;
 }
 .markdown-body td {
