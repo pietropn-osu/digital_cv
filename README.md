@@ -3,18 +3,18 @@
 
 ---
 # Languages
-Python, C, C#, C++, MASM, OpenGl, MySQL, HTML/CSS/JavaScript, Visual Basic
+<p class="plaintext">Python, C, C#, C++, MASM, OpenGl, MySQL, HTML/CSS/JavaScript, Visual Basic<p>
 
 ---
 # Applications
 #### Software
-VS Code, PyCharm, Microsoft Visual Studio, Postman, ClearCase, Git/GitHub/GitHub Desktop, GitLab, BitBucket
+<p class="plaintext">VS Code, PyCharm, Microsoft Visual Studio, Postman, ClearCase, Git/GitHub/GitHub Desktop, GitLab, BitBucket</p>
 
 #### Hardware
-AutoCAD Electrical, Logic Works, OrCAD, PSpice, Quartus II, and Cadence
+<p class="plaintext">AutoCAD Electrical, Logic Works, OrCAD, PSpice, Quartus II, and Cadence</p>
 
 #### Other
-IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
+<p class="plaintext">IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana</p>
 
 ---
 # Professional Experience
@@ -88,7 +88,7 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
 | **Major**           | Computer Science    |
 | **GPA**             | 3.84                |
 
-**Capstone:** *Levrum Data Technologies* – Prototyped porting a desktop application from 
+*Capstone - Levrum Data Technologies* – Prototyped porting a desktop application from 
 .NET Framework to a web application utilizing ASP.NET (C#) to build a RESTful API. 
 
 ##### RENSSELAER POLYTECHNIC INSTITUTE, B.S.
