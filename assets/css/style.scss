@@ -7,8 +7,13 @@ h1.title {
 .markdown-body h2 {
   margin-bottom: 5px !important;
 }
+.markdown-body h4 {
+  margin-left: 10px !important;
+  margin-bottom: 10px !important;
+}
 .markdown-body h5 {
   margin-top: 5px !important;
+  font-size: 14px !important;
 }
 .markdown-body th {
   text-align: left !important;
@@ -16,4 +21,11 @@ h1.title {
 .markdown-body td {
   width: 80% !important;
 }
+.markdown-body ul {
+  margin-top: 10px !important;
+  margin-left: 10px !important;
+}
 @import "{{site.theme}}";
+#nancy-pietropaolo {
+  margin-bottom: 5px;
+}
