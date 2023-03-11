@@ -6,5 +6,9 @@ h1.title {
 }
 .markdown-body th {
   width: 100% !important;
+  text-align: left !important;
+}
+.markdown-body td {
+  width: 80% !important;
 }
 @import "{{site.theme}}";
