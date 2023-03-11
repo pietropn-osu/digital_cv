@@ -82,7 +82,7 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
 
 ##### OREGON STATE UNIVERSITY, POST–BACCALAUREATE
 
-| __________________  |                     |
+|                     |                     |
 |--------------------:|:--------------------|
 | **Completion Date** | December 2022       |
 | **Major**           | Computer Science    |
@@ -91,8 +91,10 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
 **Capstone:** *Levrum Data Technologies* – Prototyped porting a desktop application from 
 .NET Framework to a web application utilizing ASP.NET (C#) to build a RESTful API. 
 
-| **RENSSELAER POLYTECHNIC INSTITUTE, B.S.** |                               |
-|-------------------------------------------:|:------------------------------|
+##### RENSSELAER POLYTECHNIC INSTITUTE, B.S.
+
+|                      |                                                     |
+|---------------------:|:----------------------------------------------------|
 | **Completion Date**  | December 2011                                       |
 | **Major**            | Electrical Engineering (Concentration: Electronics) |
 | **Minor**            | Social Psychology                                   |
@@ -107,7 +109,9 @@ IBM Rational DOORS, Bugzilla, Arena PLM, Omnify, Jira, Asana
 
 # Additional Languages
 
-| **SPANISH** |  |
-|:----------------------------------|:----------------------------------|
-| ***Speaking Proficiency***        | Limited Working                   |
-| ***Reading/Writing Proficiency*** | Professional Working              |
+##### SPANISH
+
+|                                   |                      |
+|:----------------------------------|:---------------------|
+| ***Speaking Proficiency***        | Limited Working      |
+| ***Reading/Writing Proficiency*** | Professional Working |

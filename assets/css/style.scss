@@ -23,11 +23,8 @@ h1.title {
 .markdown-body table {
   margin-top: 0;
 }
-.markdown-body th {
-  text-align: left !important;
-}
-.markdown-body td {
-  width: 80% !important;
+.markdown-body thead {
+  font-size: 0;
 }
 .markdown-body ul {
   margin-top: 10px !important;
