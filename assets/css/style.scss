@@ -1,10 +1,13 @@
 ---
 ---
 h1.title {
-  font-family: Helvetica !important;
-  color: red;
+  font-size: 45px !important;
+  font-style: normal !important;
 }
-.markdown-body th {
+.markdown-body table {
+  width: 100%;
+}
+.markdown-body thead {
   column-width: auto !important;
 }
 @import "{{site.theme}}";
