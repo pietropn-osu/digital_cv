@@ -101,7 +101,8 @@
 
 ---
 # Certifications
-- Raytheon Six Sigma Specialist (Green Belt equivalent)
+- *Raytheon* - Six Sigma Specialist (Green Belt equivalent)
+- *GE Intelligent Platforms* - Proficy iFix Fundamentals
 
 ---
 # Additional Information
