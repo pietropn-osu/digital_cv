@@ -101,7 +101,7 @@
 
 ---
 # Certifications
-- Six Sigma (Green Belt equivalent)
+- Raytheon Six Sigma Specialist (Green Belt equivalent)
 
 ---
 # Additional Information
