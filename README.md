@@ -2,7 +2,7 @@
 <p id="current-title">SENIOR SOFTWARE ENGINEER</p>
 <p id="email"><em>nancy.pietropaolo@gmail.com</em></p>
 
----
+<hr id="first-hr">
 # Languages
 <p class="plaintext">Python, C, C#, C++, MASM, OpenGl, MySQL, HTML/CSS/JavaScript, Visual Basic</p>
 
