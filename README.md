@@ -105,7 +105,7 @@
 
 ---
 # Additional Information
-- Active Secret clearance
+- Active *<font color="red">Secret</font>* security clearance from U.S. Department of State
 
 ---
 # Additional Languages
