@@ -10,7 +10,7 @@ h1.title {
 }
 .markdown-body h1 {
   margin-top: 5px;
-  margin-bottom: 5px;
+  margin-bottom: 5px !important;
 }
 .markdown-body h2 {
   margin-top: 25px !important;
@@ -46,7 +46,6 @@ h1.title {
 }
 #email {
   margin-top: 5px;
-  font-style: italic;
 }
 .plaintext {
   margin-top: 5px;

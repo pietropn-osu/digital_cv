@@ -1,5 +1,5 @@
 # Nancy Pietropaolo [![LinkedIn](./assets/images/linkedin_logo.png)](https://www.linkedin.com/in/nancy-pietropaolo-a5a3bb47/)
-<p id="email">nancy.pietropaolo@gmail.com</p>
+<p id="email"><em>nancy.pietropaolo@gmail.com</em></p>
 
 ---
 # Languages
