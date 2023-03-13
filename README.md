@@ -1,6 +1,5 @@
-# Nancy Pietropaolo
+# Nancy Pietropaolo [![LinkedIn](./assets/images/linkedin_logo.png)](https://www.linkedin.com/in/nancy-pietropaolo-a5a3bb47/)
 <p id="email">nancy.pietropaolo@gmail.com</p>
-[![LinkedIn](./assets/images/linkedin_logo.png)](https://www.linkedin.com/in/nancy-pietropaolo-a5a3bb47/)
 
 ---
 # Languages
@@ -101,8 +100,8 @@
 
 ---
 # Certifications
-- *Raytheon* - Six Sigma Specialist (Green Belt equivalent)
-- *GE Intelligent Platforms* - Proficy iFix Fundamentals
+- *Raytheon -* Six Sigma Specialist (Green Belt equivalent)
+- *GE Intelligent Platforms -* Proficy iFix Fundamentals
 
 ---
 # Additional Information
