@@ -1,4 +1,4 @@
-# Nancy Pietropaolo [![LinkedIn](./assets/images/linkedin_logo.png)](https://www.linkedin.com/in/nancy-pietropaolo-a5a3bb47/)
+# Nancy Pietropaolo [![EMail](./assets/images/email_icon.png)](mailto:nancy.pietropaolo@gmail.com) [![LinkedIn](./assets/images/linkedin_icon.png)](https://www.linkedin.com/in/nancy-pietropaolo-a5a3bb47/)
 <p id="email"><em>nancy.pietropaolo@gmail.com</em></p>
 
 ---
