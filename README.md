@@ -38,7 +38,7 @@ and timely project delivery
 -   Mentored and coached 30+ new software engineers, facilitating their expertise in parallel software development, unit testing, code modularization, and optimization strategies
 
 #### Subsystem Support Recovery Project (Complete)
--   Led software and systems effort to upgrade a subsystem which relays encrypted communication between the Patriot system's control and launcher stations.
+-   Led software and systems effort to upgrade a subsystem which relays encrypted communication between the Patriot system's control and launcher stations
 -	Salvaged project that was three months behind schedule
 -	Led automation effort to design the implementation of data analysis in Python 
 -	Performed requirements maintenance as well as functional and regression testing
@@ -47,7 +47,7 @@ and timely project delivery
 ###### September 2016 - February 2019
 #### General
 -	Designed and implemented test procedures and scripts for Patriot system status monitor and communication functionalities
--	Automated tests, minimizing run and execution time while reducing potential operator errors from manual tasks
+-	Automated tests to minimize both run and execution time, and reduce potential operator errors from manual tasks
 -	Conducted unit, functional, and regression testing
 
 #### ClearCase Six Sigma (Complete)
@@ -58,28 +58,28 @@ and timely project delivery
 
 ## SQA Engineer, *Samsung Neurologica*
 ###### July 2015 - August 2016
--   Performed FDA verification/validation and environmental testing on mobile CT scanners
--   Performed additional test methodologies on system level components including HALT, HASS, regression, and regulatory compliance
--   Generated and executed test cases/plans/reports for system level components
--   Defined fault behavior and determined repeatability
--   Integrated and refined existing documentation/product designs
--   Coordinated with internal/external development partners to ensure products met expectations
+-   Conducted FDA verification and validation along with environmental testing on mobile CT scanners
+-   Utilized various test methodologies such as HALT, HASS, regression, and regulatory compliance for system-level component testing
+-   Generated and executed comprehensive test cases, plans, and reports for system-level components
+-   Analyzed fault behavior and ensured repeatability for effective issue resolution
+-   Integrated and enhanced existing documentation and product designs
+-   Collaborated with internal and external development partners to ensure product compliance
 
 ## Controls Engineer, *SP Scientific*
 ###### April 2014 - April 2015
--   Developed and maintained HMIs in Visual Basic (Proficy HMI/SCADA, iFIX)
--   Implemented PLC (Allen-Bradley) programs to facilitate freeze-drying processes
--   Maintained electrical schematics
--   Provided support to field service technicians for troubleshooting purposes
+-   Created and managed Visual Basic HMIs (Proficy HMI/SCADA, iFIX)
+-   Implemented Allen-Bradley PLC programs to facilitate freeze-drying processes
+-   Updated and maintained electrical schematics to ensure system efficiency
+-   Provided essential support to field service technicians for efficient troubleshooting
 -   Managed instructional documentation for HMI/PLC configurations
 
 ## Systems Engineer, *DRS Technologies*
 ###### April 2012 - April 2014
--	Lead Test Engineer for flight recorder systems
--	Managed procurement specification requirements 
--	Designed technical procedures for acceptance and qualification testing
--	Designed test automation scripts (C#) per MIL-STD-1553
--	Trained technicians to run test procedures for the production stage
+-	Served as Lead Test Engineer for flight recorder systems
+-	Managed procurement specifications
+-	Developed technical procedures for acceptance and qualification testing
+-	Designed test automation scripts (C#) aligned with MIL-STD-1553
+-	Trained technicians for efficient test procedure execution in production
 
 ---
 # Education
