@@ -24,20 +24,21 @@
 ## Senior Software Engineer, *RTX Corporation - Raytheon*
 ###### February 2019 - Present
 #### General			
--	Responsibilities of Software Engineer II *(see below)*
 -	Perform and verify software installations for customers on-site
--	Provide customer with training and documentation on product changes
+-	Conduct training sessions and provide documentation to customers regarding product changes
 
 #### Engineering Metrics and Data Analytics
--	Support multiple teams which utilize Agile (e.g. Scrum, Kanban) and Waterfall methodologies for automation of data collection and analysis in Python
-- Build CLI tools to automate processes within engineering teams
--	Manage teams varying between 3 – 10 people
--   Mentoring new hire software engineers (30+ in total) in parallel software development, unit testing, and code modularization and optimization
--	Define data visualization standards, coding standards, and implement CI/CD processes
--	Prototype front-end designs using HTML/CSS/JavaScript
--	Generate visualization reports via SAP BusinessObjects (BOBJ)
+-	Lead Agile (Scrum, Kanban) and Waterfall methodologies to streamline data collection and analysis processes across multiple, cross-functional teams.
+-   Develop versatile CLI tools (Python), including web scraping (Selenium) to expedite data collection and analysis
+-	Manage cross-functional teams of 3-10 members, fostering seamless collaboration
+and timely project delivery
+-	Establish data visualization and coding standards, while spearheading the integration of CI/CD processes.
+-	Design and deliver front-end prototypes using HTML/CSS/JavaScript
+-	Generate visualization reports using SAP BusinessObjects (BOBJ)
+-   Mentored and coached 30+ new software engineers, facilitating their expertise in parallel software development, unit testing, code modularization, and optimization strategies
 
 #### Subsystem Support Recovery Project (Complete)
+-   Led software and systems effort to upgrade a subsystem which relays encrypted communication between the Patriot system's control and launcher stations.
 -	Salvaged project that was three months behind schedule
 -	Led automation effort to design the implementation of data analysis in Python 
 -	Performed requirements maintenance as well as functional and regression testing
@@ -45,32 +46,32 @@
 ## Software Engineer II, *RTX Corporation - Raytheon*
 ###### September 2016 - February 2019
 #### General
--	Designed and implemented test procedures/scripts for status monitor and communication functionalities of the Patriot system
--	Automated manual/quasi-automated tests to reduce run/execution times and operator errors
--	Performed unit, functional, and regression testing
+-	Designed and implemented test procedures and scripts for Patriot system status monitor and communication functionalities
+-	Automated tests, minimizing run and execution time while reducing potential operator errors from manual tasks
+-	Conducted unit, functional, and regression testing
 
 #### ClearCase Six Sigma (Complete)
--	Provided version control, improve auditing processes, and allow parallel development by integrating Validation’s artifacts into a ClearCase environment
--	Collaborated with Modernization team to define and implement processes
--	Provided classes at completion of project to train multiple departments on finalized processes and tools
+-	Enhanced version control and auditing processes, enabling parallel development by integrating Validation’s artifacts into a Rational ClearCase environment
+-	Collaborated with the Modernization team to establish and implement ClearCase utilization processes
+-	Designed and conducted comprehensive training sessions for multiple departments on the finalized processes and tools
 
 
 ## SQA Engineer, *Samsung Neurologica*
 ###### July 2015 - August 2016
-- Performed FDA verification/validation and environmental testing on mobile CT scanners
-- Performed additional test methodologies on system level components including HALT, HASS, regression, and regulatory compliance
-- Generated and executed test cases/plans/reports for system level components
-- Defined fault behavior and determined repeatability
-- Integrated and refined existing documentation/product designs
-- Coordinated with internal/external development partners to ensure products met expectations
+-   Performed FDA verification/validation and environmental testing on mobile CT scanners
+-   Performed additional test methodologies on system level components including HALT, HASS, regression, and regulatory compliance
+-   Generated and executed test cases/plans/reports for system level components
+-   Defined fault behavior and determined repeatability
+-   Integrated and refined existing documentation/product designs
+-   Coordinated with internal/external development partners to ensure products met expectations
 
 ## Controls Engineer, *SP Scientific*
 ###### April 2014 - April 2015
-- Developed and maintained HMIs in Visual Basic (Proficy HMI/SCADA, iFIX)
-- Implemented PLC (Allen-Bradley) programs to facilitate freeze-drying processes
-- Maintained electrical schematics
-- Provided support to field service technicians for troubleshooting purposes
-- Managed instructional documentation for HMI/PLC configurations
+-   Developed and maintained HMIs in Visual Basic (Proficy HMI/SCADA, iFIX)
+-   Implemented PLC (Allen-Bradley) programs to facilitate freeze-drying processes
+-   Maintained electrical schematics
+-   Provided support to field service technicians for troubleshooting purposes
+-   Managed instructional documentation for HMI/PLC configurations
 
 ## Systems Engineer, *DRS Technologies*
 ###### April 2012 - April 2014
