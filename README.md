@@ -28,11 +28,11 @@
 -	Conduct training sessions and provide documentation to customers regarding product changes
 
 #### Engineering Metrics and Data Analytics
--	Lead Agile (Scrum, Kanban) and Waterfall methodologies to streamline data collection and analysis processes across multiple, cross-functional teams.
+-	Lead Agile (Scrum, Kanban) and Waterfall methodologies to streamline data collection and analysis processes across multiple, cross-functional teams
 -   Develop versatile CLI tools (Python), including web scraping (Selenium) to expedite data collection and analysis
 -	Manage cross-functional teams of 3-10 members, fostering seamless collaboration
 and timely project delivery
--	Establish data visualization and coding standards, while spearheading the integration of CI/CD processes.
+-	Establish data visualization and coding standards, while spearheading the integration of CI/CD processes
 -	Design and deliver front-end prototypes using HTML/CSS/JavaScript
 -	Generate visualization reports using SAP BusinessObjects (BOBJ)
 -   Mentored and coached 30+ new software engineers, facilitating their expertise in parallel software development, unit testing, code modularization, and optimization strategies
@@ -85,7 +85,7 @@ and timely project delivery
 # Education
 
 ##### OREGON STATE UNIVERSITY, POST–BACCALAUREATE
-<p class="capstone"><strong><em>Capstone - Levrum Data Technologies – </em></strong>Prototyped porting a desktop application from .NET Framework to a web application utilizing ASP.NET (C#) to build a RESTful API.</p>
+<p class="capstone"><strong><em>Capstone - Levrum Data Technologies – </em></strong>Prototyped porting a desktop application from .NET Framework to a web application utilizing ASP.NET (C#) to build a RESTful API</p>
 
 |                     |                     |
 |--------------------:|:--------------------|
