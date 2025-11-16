@@ -76,7 +76,7 @@
 -	Managed procurement specifications
 -	Developed technical procedures for acceptance and qualification testing
 -	Designed test automation scripts (C#) aligned with MIL-STD-1553
--	Trained technicians for efficient test procedure execution in production
+-	Trained technicians for efficient test procedure execution in production 
 
 ---
 # Education
