@@ -5,7 +5,7 @@
 <hr id="first-hr">
 
 # Languages
-<p class="plaintext">Python, C, C#, C++, MASM, OpenGL, MySQL, HTML/CSS/JavaScript, Visual Basic</p>
+<p class="plaintext">Python, C, C#, C++, MASM, OpenGL, MySQL, HTML/CSS/JavaScript</p>
 
 ---
 # Applications
@@ -22,23 +22,20 @@
 # Professional Experience
 
 ## Senior Software Engineer, *RTX Corporation - Raytheon*
-###### February 2019 - Present
-#### General			
--	Perform and verify software installations for customers on-site
--	Conduct training sessions and provide documentation to customers regarding product changes
+###### February 2019 - November 2025
 
 #### Engineering Metrics and Data Analytics
--	Lead Agile (Scrum, Kanban) and Waterfall methodologies to streamline data collection and analysis processes across multiple, cross-functional teams
--   Develop versatile CLI tools (Python), including web scraping (Selenium) to expedite data collection and analysis
--	Manage cross-functional teams of 3-10 members, fostering seamless collaboration
-and timely project delivery
--	Establish data visualization and coding standards, while spearheading the integration of CI/CD processes
--	Design and deliver front-end prototypes using HTML/CSS/JavaScript
--	Generate visualization reports using SAP BusinessObjects (BOBJ)
--   Mentored and coached 30+ new software engineers, facilitating their expertise in parallel software development, unit testing, code modularization, and optimization strategies
+-	Led Agile (Scrum, Kanban) and Waterfall methodologies to streamline data collection and analysis processes across multiple, cross-functional teams
+- Developed versatile CLI tools (Python), including web scraping (Selenium) to expedite data collection and analysis
+- Trained and integrated LLM/SLMs into existing tools to parse unstructured or non-standardized data
+-	Managed cross-functional teams, fostering seamless collaboration and timely project delivery
+-	Established data visualization and coding standards, while spearheading the integration of CI/CD processes
+-	Designed and delivered front-end prototypes using HTML/CSS/JavaScript
+-	Generated visualization reports using SAP BusinessObjects (BOBJ)
+- Mentored and coached 30+ new software engineers, facilitating their expertise in parallel software development, unit testing, code modularization, and optimization strategies
 
 #### Subsystem Support Recovery Project (Complete)
--   Led software and systems effort to upgrade a subsystem which relays encrypted communication between the Patriot system's control and launcher stations
+- Led software and systems effort to upgrade a subsystem which relays encrypted communication between the Patriot system's control and launcher stations
 -	Salvaged project that was three months behind schedule
 -	Led automation effort to design the implementation of data analysis in Python 
 -	Performed requirements maintenance as well as functional and regression testing
@@ -106,10 +103,6 @@ and timely project delivery
 # Certifications
 - *Raytheon -* Six Sigma Specialist (Green Belt equivalent)
 - *GE Intelligent Platforms -* Proficy iFix Fundamentals
-
----
-# Additional Information
-- Active *<font color="red">Secret</font>* security clearance from U.S. Department of State
 
 ---
 # Additional Languages
